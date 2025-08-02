@@ -1,7 +1,11 @@
+body{
+    background-color: azure;
+}
 h3{
     color: rgb(5, 0, 36);
     background-color: rgb(179, 199, 199);
 }
 img{
     width: 300px;
+    border: 2px solid darkmagenta;
 }
